@@ -17,7 +17,7 @@ Comprobar si el proceso secundario está vivo y mostrarlo por pantalla.
 
 Escribe la respuesta obtenida en consola:
 
-![Screenshot]()
+![Screenshot](capEjer1.png)
 
 ## Ejercicio 2
 
@@ -27,5 +27,5 @@ Mostrar también el resultado del valor de la lista y la suma de sus elementos p
 
 Escribe la respuesta obtenida en consola:
 
-![Screenshot]()
+![Screenshot](capEjer2.png)
 
